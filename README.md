@@ -9,12 +9,6 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jcromeck&show_icons=true&theme=radical" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcromeck&theme=radical" />
 </div>
-<div>
-  <a hred="https://www.instagram.com/jhcromeck/">
-  <img height="50em" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a hred="https://www.linkedin.com/in/joão-henrique-cromeck-47b325221/">
-  <img height="50em" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
 
     
 #### Tenho breve experiências sobre as seguintes ferramentas:
