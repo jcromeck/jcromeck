@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Henrique Cromeck 👋
 
 
-- 🔭 Atualmente estudando na Universidade Estadual do Norte do Paraná - UENP se graduando no curso de Ciência da Computação
+- 🔭 Estudo na Universidade Estadual do Norte do Paraná - UENP se graduando no curso de Ciência da Computação
 - 🌱 Estudando no momento áreas do Python, em específico análise de dados e Django
 - 💬 Contate-me no email: jcromeck@gmail.com
 <div>
